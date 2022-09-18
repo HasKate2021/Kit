@@ -46,3 +46,5 @@
 
 ### ***Удаление веток***
 Для удаления ветки ввести команду "`git branch -d 'name branch'`"
+
+![гит картинка](https://sun6-21.userapi.com/impg/iat5kp-fWajAYF49isNUDy8i9ytupfBSG8GALw/LXvstHOBR44.jpg?size=604x343&quality=96&sign=10ec3afaac00f48a9a10c0b8fa7ffae2&c_uniq_tag=FJ6TaWB-HtuT_omgK2YY7qNta_t6Xi2p20eLcrhILfY&type=album "Конец")
